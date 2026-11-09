@@ -1,0 +1,51 @@
+﻿id,date,meal,comment,category,sentiment,urgent,summary,review_status
+F01,2026-11-09,Lunch,The rice was undercooked today,other,negative,True,Rice was undercooked today,classified
+F02,2026-11-09,Dinner,I found an insect in the sambar,hygiene,negative,True,Insect found in sambar,classified
+F03,2026-11-09,Breakfast,The idli was soft and tasty,taste,positive,False,Idli was soft and tasty,classified
+F04,2026-11-09,Lunch,The sambar had too much salt,taste,negative,False,Sambar was too salty,classified
+F05,2026-11-09,Dinner,The food was served very late,timing,negative,False,Food was served very late,classified
+F06,2026-11-09,Breakfast,The dosa was crispy and delicious,taste,positive,False,Dosa was crispy and delicious,classified
+F07,2026-11-09,Lunch,The rice quantity was not enough,quantity,negative,False,Rice quantity was not enough,classified
+F08,2026-11-09,Dinner,The curry smelled like spoiled food,hygiene,negative,True,Curry smelled like spoiled food,classified
+F09,2026-11-09,Breakfast,The tea was too sweet today,taste,negative,False,Tea was too sweet today,classified
+F10,2026-11-09,Lunch,The vegetables were fresh and tasty,taste,positive,False,Vegetables were fresh and tasty,classified
+F11,2026-11-09,Dinner,I found a hair in my food,hygiene,negative,True,Hair found in food,classified
+F12,2026-11-09,Breakfast,The breakfast was served on time,timing,positive,False,Breakfast was served on time,classified
+F13,2026-11-09,Lunch,The rasam was very watery,taste,negative,False,Rasam was very watery,classified
+F14,2026-11-09,Dinner,The chicken was not cooked properly,hygiene,negative,True,Chicken was not cooked properly,classified
+F15,2026-11-09,Breakfast,The pongal was very tasty,taste,positive,False,Pongal was very tasty,classified
+F16,2026-11-09,Lunch,The food was cold when served,taste,negative,False,Food was cold when served,classified
+F17,2026-11-09,Dinner,The dining area was clean today,hygiene,positive,False,Dining area was clean today,classified
+F18,2026-11-09,Breakfast,The chutney quantity was too low,quantity,negative,False,Chutney quantity was too low,classified
+F19,2026-11-09,Lunch,The food tasted fresh and good,taste,positive,False,Food tasted fresh and good,classified
+F20,2026-11-09,Dinner,Several students fell sick after dinner,hygiene,negative,True,Students fell sick after dinner,classified
+F21,2026-11-09,Breakfast,Inniku dosa romba nalla irundhuchu,taste,positive,False,Dosa was very good today,classified
+F22,2026-11-09,Lunch,Sambar la uppu romba adhigama irundhuchu,taste,negative,False,Sambar was overly salty,classified
+F23,2026-11-09,Dinner,Saapadu inniku konjam late ah kuduthanga,timing,negative,False,Food was served a little late today,classified
+F24,2026-11-09,Breakfast,Idli soft ah irundhuchu and chutney nalla irundhuchu,taste,positive,False,Idli was soft and chutney was good,classified
+F25,2026-11-09,Lunch,Sapadu quantity konjam kammiya irundhuchu,quantity,negative,False,Food quantity was a little low,classified
+F26,2026-11-09,Dinner,Sambar la poochi irundhuchu,hygiene,negative,True,Insect found in sambar,classified
+F27,2026-11-09,Breakfast,Tea romba sweet ah irundhuchu,taste,negative,False,Tea was very sweet,classified
+F28,2026-11-09,Lunch,Rice nalla venthu irundhuchu,taste,positive,False,Rice was very good,classified
+F29,2026-11-09,Dinner,Chicken curry taste nalla illa,taste,negative,False,Chicken curry taste not good,classified
+F30,2026-11-09,Breakfast,Inniku breakfast correct time ku kuduthanga,timing,positive,False,Breakfast served at correct time today,classified
+F31,2026-11-09,Lunch,Curd rice romba nalla irundhuchu,taste,positive,False,Curd rice was very good,classified
+F32,2026-11-09,Dinner,Food la mudi kedachuchu,hygiene,negative,True,Hair found in food,classified
+F33,2026-11-09,Breakfast,Pongal la salt kammiya irundhuchu,taste,negative,False,Pongal had less salt,classified
+F34,2026-11-09,Lunch,Vegetables fresh ah illa,hygiene,negative,False,Vegetables are not fresh,classified
+F35,2026-11-09,Dinner,Food sapta apram stomach pain vandhuchu,hygiene,negative,True,Stomach pain after eating,classified
+F36,2026-11-09,Breakfast,The bread was fresh and soft,taste,positive,False,Bread was fresh and soft,classified
+F37,2026-11-09,Lunch,The meal portions were sufficient,quantity,positive,False,Meal portions were sufficient,classified
+F38,2026-11-09,Dinner,The dining hall was not clean,hygiene,negative,False,Dining hall was not clean,classified
+F39,2026-11-09,Breakfast,The milk tasted normal today,taste,neutral,False,Milk tasted normal today,classified
+F40,2026-11-09,Lunch,The food was served at the correct time,timing,positive,False,Food was served at the correct time,classified
+F41,2026-11-09,Dinner,The fish smelled stale and unpleasant,hygiene,negative,True,Fish smelled stale and unpleasant,classified
+F42,2026-11-09,Breakfast,The variety of breakfast items was good,other,positive,False,Variety of breakfast items was good,classified
+F43,2026-11-09,Lunch,The curd was expired and tasted bad,hygiene,negative,True,Expired curd tasted bad,classified
+F44,2026-11-09,Dinner,The dinner quantity was enough for everyone,quantity,positive,False,Dinner quantity was sufficient for everyone,classified
+F45,2026-11-09,Breakfast,Inniku tea taste romba nalla irundhuchu,taste,positive,False,Tea tasted very good today,classified
+F46,2026-11-09,Lunch,Rasam la uppu konjam kammiya irundhuchu,taste,negative,False,Rasam had slightly low salt,classified
+F47,2026-11-09,Dinner,The kitchen floor was clean,hygiene,positive,False,Kitchen floor was clean,classified
+F48,2026-11-09,Breakfast,The breakfast was not served on time,timing,negative,False,Breakfast was not served on time,classified
+F49,2026-11-09,Lunch,The sambar contained an insect today,hygiene,negative,True,Insect found in sambar today,classified
+F50,2026-11-09,Dinner,The dinner was tasty and satisfying,taste,positive,False,Dinner was tasty and satisfying,classified

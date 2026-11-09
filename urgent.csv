@@ -1,0 +1,13 @@
+﻿id,date,meal,comment,category,sentiment,urgent,summary,review_status
+F01,2026-11-09,Lunch,The rice was undercooked today,other,negative,True,Rice was undercooked today,classified
+F02,2026-11-09,Dinner,I found an insect in the sambar,hygiene,negative,True,Insect found in sambar,classified
+F08,2026-11-09,Dinner,The curry smelled like spoiled food,hygiene,negative,True,Curry smelled like spoiled food,classified
+F11,2026-11-09,Dinner,I found a hair in my food,hygiene,negative,True,Hair found in food,classified
+F14,2026-11-09,Dinner,The chicken was not cooked properly,hygiene,negative,True,Chicken was not cooked properly,classified
+F20,2026-11-09,Dinner,Several students fell sick after dinner,hygiene,negative,True,Students fell sick after dinner,classified
+F26,2026-11-09,Dinner,Sambar la poochi irundhuchu,hygiene,negative,True,Insect found in sambar,classified
+F32,2026-11-09,Dinner,Food la mudi kedachuchu,hygiene,negative,True,Hair found in food,classified
+F35,2026-11-09,Dinner,Food sapta apram stomach pain vandhuchu,hygiene,negative,True,Stomach pain after eating,classified
+F41,2026-11-09,Dinner,The fish smelled stale and unpleasant,hygiene,negative,True,Fish smelled stale and unpleasant,classified
+F43,2026-11-09,Lunch,The curd was expired and tasted bad,hygiene,negative,True,Expired curd tasted bad,classified
+F49,2026-11-09,Lunch,The sambar contained an insect today,hygiene,negative,True,Insect found in sambar today,classified

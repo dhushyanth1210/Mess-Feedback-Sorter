@@ -1,0 +1,31 @@
+MESS FEEDBACK SORTER SUMMARY
+============================
+
+Total feedbacks: 50
+Successfully classified: 50
+Needs manual review: 0
+
+CATEGORY COUNTS
+----------------
+taste: 22
+hygiene: 15
+quantity: 5
+timing: 6
+other: 2
+
+Negative feedback: 58.00%
+
+URGENT FEEDBACK
+----------------
+The rice was undercooked today
+I found an insect in the sambar
+The curry smelled like spoiled food
+I found a hair in my food
+The chicken was not cooked properly
+Several students fell sick after dinner
+Sambar la poochi irundhuchu
+Food la mudi kedachuchu
+Food sapta apram stomach pain vandhuchu
+The fish smelled stale and unpleasant
+The curd was expired and tasted bad
+The sambar contained an insect today
