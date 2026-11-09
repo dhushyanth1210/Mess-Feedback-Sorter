@@ -99,6 +99,12 @@ Never upload the .env file or expose your API key.
 - AI classification may occasionally be incorrect.
 - Urgent complaints require human verification.
 - API availability and response time may vary.
+## Security and Human Review
 
+- API keys are stored in the `.env` file.
+- The `.env` file is excluded using `.gitignore`.
+- Invalid AI responses are sent for manual review.
+- Urgent food safety complaints require human verification.
+- AI classification supports decision-making but does not replace human judgment.
 ## Conclusion
 Mess Feedback Sorter helps organize hostel mess feedback through AI-based classification, sentiment analysis, urgency detection, and automated report generation. It supports faster review and helps staff identify important food safety complaints.
