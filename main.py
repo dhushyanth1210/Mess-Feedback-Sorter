@@ -1,3 +1,5 @@
+# Mess Feedback Sorter
+# AI-based classification with Python validation and human review.
 import os
 import csv
 import json
