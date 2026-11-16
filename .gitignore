@@ -1,0 +1,5 @@
+.env
+venv/
+__pycache__/
+ui_feedback.db
+.vscode/

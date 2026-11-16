@@ -1,0 +1,6 @@
+﻿test_id,comment,expected_category,actual_category,expected_sentiment,actual_sentiment,expected_urgent,actual_urgent,status
+E1,Food was very tasty,taste,taste,positive,positive,False,False,PASS
+E2,Rice quantity was less,quantity,quantity,negative,negative,False,False,PASS
+E3,Breakfast was late,timing,timing,negative,negative,False,False,PASS
+E4,Insect found in food,hygiene,hygiene,negative,negative,True,True,PASS
+E5,Dining hall was clean,hygiene,hygiene,positive,positive,False,False,PASS
